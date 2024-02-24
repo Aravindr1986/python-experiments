@@ -1,2 +1,2 @@
 # python-experiments
-A look at panda and other data libraries
+A look at panda,numphy and other data libraries
